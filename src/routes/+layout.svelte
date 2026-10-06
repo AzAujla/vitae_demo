@@ -27,7 +27,7 @@
 			<li class="text-4xl pb-4 font-semibold great-vibes-regular">{context.appName}</li>
 			<li><a href="/ppt">Presentation</a></li>
 			<li><a href="/app">Mobile App</a></li>
-			<li><a>Web App</a></li>
+			<li><a href="/admin/dashboard">Web App</a></li>
 		</ul>
 	</div>
 </div>
